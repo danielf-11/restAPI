@@ -1,0 +1,30 @@
+{
+  "name": "restAPI",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000e\u0000s\u0000t\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielf-11/restAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielf-11/restAPI/issues"
+  },
+  "homepage": "https://github.com/danielf-11/restAPI#readme"
+}
